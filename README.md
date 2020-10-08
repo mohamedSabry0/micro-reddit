@@ -1,24 +1,59 @@
-# README
+# [Micro-Reddit]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- In this project we worked with data modeling and putting our active record knowledge to practice by building our own light weight Reddit clone.
 
-Things you may want to cover:
+Models, Views, and Controllers (MVC)
+Data Structures & Relationships
+Routing
+Migrations
 
-* Ruby version
+ 
+## Setup
 
-* System dependencies
+- Make a copy in your local enviroment(Clone the Git Repository)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## Built With
 
-* How to run the test suite
+- Ruby on Rails
+- Rubocop
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Prerequisites
 
-* ...
+- Browser (Google Chrome, Mozilla Firefox, Safari or any other browser)
+- Ruby on Rails
+
+## GitHub Repo
+
+-  https://github.com/Rocio01/blogger
+
+
+## Author
+
+👤 **Mohamed Sabry**
+
+- Github: [@mohamedSabry0](https://github.com/mohamedSabry0)
+- Twitter: []()
+- Linkedin: []()
+
+👤 **Rocio Martinez**
+
+- Github: [@Rocio01](https://github.com/Rocio01)
+- Twitter: [@rugiada8801](https://twitter.com/rugiada8801)
+- Linkedin: [zulma-martinez-5247a31a8](https://www.linkedin.com/in/zulma-martinez-5247a31a8/)
+
+
+## Acknowledgments
+
+- Microverse
+- Ruby on Rails
+- The Odin project
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
